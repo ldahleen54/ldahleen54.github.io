@@ -1,8 +1,8 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: Luke Dahleen
+email: ldahleen54@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
+keywords: "Software Engineer, Python, C#, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
 skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
 baseurl:
 
@@ -10,12 +10,12 @@ baseurl:
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
+    url: https://www.linkedin.com/in//
+  - title: github
+    url: https://github.com/ldahleen54
   - title: twitter
     url: https://twitter.com/chuck_groom
-    
+
 # Google webmaster tools
 google_verify:
 
